@@ -1,0 +1,16 @@
+path: D:/MScComputerScience/FINE_TUNE_YOLO/car_dataset
+train: D:/MScComputerScience/FINE_TUNE_YOLO/car_dataset/images/train
+val: D:/MScComputerScience/FINE_TUNE_YOLO/car_dataset/images/val
+
+nc: 10
+names:
+  0: Audi_R8_2014
+  1: Audi_RS6_Avant_2020
+  2: BMW_X5_2015
+  3: Ferrari_F40
+  4: Ferrari_F8_Tributo_2020
+  5: Ford_Mustang_GT_Convertible_2020
+  6: Lamborghini_Gallardo_2010
+  7: Mercedes_AMG_GT_2015
+  8: Porsche_911_2020
+  9: Tesla_Cybertruck_2023
