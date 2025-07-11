@@ -1,0 +1,15 @@
+train: /Users/jolla/Documents/FineTuneYolo/car_dataset/images/train
+val: /Users/jolla/Documents/FineTuneYolo/car_dataset/images/val
+
+nc: 10
+names:
+  - Ford Mustang GT Convertible 2020
+  - Audi R8 2014
+  - Audi RS6 Avant 2020
+  - BMW X5 2015
+  - Ferrari F8 Tributo 2020
+  - Ferrari F40
+  - Lamborghini Gallardo 2010
+  - Mercedes AMG GT 2015
+  - Porsche 911 2020
+  - Tesla Cybertruck 2020
